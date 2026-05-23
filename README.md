@@ -14,7 +14,7 @@
  AUTOSCRIPT WEBSOCKET MULTIPORT INI SESUAI UNTUK TRICK MERAH - KUNING - BIRU (MALAYSIA) <br>
  <br>
  1. LINK CONFIG SIAP GENERATE UNTUK TELCO MERAH - KUNING - BIRU (MALAYSIA) <br>
- 2. JIKA TERDAPAT SEBARANG BUG / GLITCH BOLEH LAPORKAN PADA SAYA DI TELEGRAM : @brianxkl <br>
+ 2. JIKA TERDAPAT SEBARANG BUG / GLITCH BOLEH LAPORKAN PADA SAYA<br>
  <br>
  
  SILA PASTIKAN SETTING DOMAIN DI CLOUDFLARE ANDA SEPERTI DIBAWAH (SSL/TLS SETTINGS) <br>
@@ -77,10 +77,3 @@ sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.di
 <p align="center">
 <img src="https://user-images.githubusercontent.com/82468311/191024199-5c324236-54d1-458a-8920-9f03621d1e10.png" width="400" title="Autoscript-Lite">
 </p>
-
-## ⏩ BUY ME A COFFEE ? ⏪
-<b>
-<br>
-<p align="center">
-<img src="https://user-images.githubusercontent.com/82468311/189573622-9b165a67-4ae7-4354-bd8d-5fad54c266fa.JPG" width="300" title="Autoscript-Lite">
-<b>
